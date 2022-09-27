@@ -1,0 +1,38 @@
+.heading
+{
+    font-size:30px ;
+    width: 100%;
+    margin: 0px;
+    color: darkblue;
+    background-color: aquamarine;
+}
+
+.note
+{
+    color: white;
+    background-color:darkslateblue;
+    font-size: 17px;
+}
+
+#songName
+{
+    text-align: center;
+    height: 70px;
+    width: 170px;
+    font-size: 30px;
+    color: crimson;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+canvas
+{
+    border: 5px solid white;
+    border-radius: 25px;
+    margin-top: 50px;
+    box-shadow: 5px 5px 10px 10px deepskyblue;
+}
+
+body
+{
+    background-color: black;
+}
